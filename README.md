@@ -14,7 +14,7 @@
 ### 🛠️ Technologies & Tools
 
 ```javascript
-const stack = {
+const raissa = {
   languages: ['JavaScript', 'TypeScript', 'Python', 'C#', 'HTML', 'CSS'],
   frameworks: ['React', 'Angular', 'Node.js'],
   interests: ['Artificial Intelligence', 'RPA', 'Web Development'],
