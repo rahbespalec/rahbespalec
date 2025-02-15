@@ -21,7 +21,7 @@ const raissa = {
   experience: {
     current: "RPA Intern @ Banco Safra",
     previous: "IT Intern @ VOIP Group",
-    volunteer: "Little Talents Project"
+    volunteer: "Projeto Pequenos Talentos"
   }
 }
 ```
