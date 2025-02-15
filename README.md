@@ -4,7 +4,7 @@
   <img src="raisa_com_titi_menos_falso-removebg-preview (1).png" width="280" align="right">
 </div>
 
-## About Me 👩‍💻
+### About Me 👩‍💻
 
 🎓 Computer Engineering Student at <a href="https://faculdadesalvadorarena.org.br/" target="_blank">Faculdade Engenheiro Salvador Arena</a>  
 💼 RPA Intern at <a href="https://www.safra.com.br/" target="_blank">Banco Safra</a>  
